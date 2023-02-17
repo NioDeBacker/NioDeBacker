@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Nio De Backer
+# 👋 Hi, I’m Nio De Backer
 
 I'm a student *Applied Information Technology* at Ghent University College. Currently I'm finishing my Bachelor's thesis and working an internship at [Picky](https://picky.recipes/).
  
