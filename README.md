@@ -1,11 +1,24 @@
-- 👋 Hi, I’m @NioDeBacker
-- 👀 I’m interested in web and mobile app development
-- 🌱 I’m currently learning Dart and Flutter
-- 📫 How to reach me: nio@telenet.be or nio.debacker@student.hogent.be
-[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nio-de-backer/)
-<!---
-NioDeBacker/NioDeBacker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 👋 Hi, I’m Nio De Backer
 
-![Nio's GitHub stats](https://github-readme-stats.vercel.app/api?username=NioDeBacker&show_icons=true&theme=radical&count_private=true)
+I'm a student *Applied Information Technology* at Ghent University College. Currently I'm finishing my Bachelor's thesis and working an internship at [Picky](https://picky.recipes/).
+ 
+Currently learning: **Dart and Flutter**
+<a align="center">
+  <a>
+    <img width="55%" height="250" align="right" alt="Nio's github stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NioDeBacker"/>
+  </a>
+ 
+  <p align="center">
+    <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D36736&center=true&vCenter=true&width=435&lines=Full-stack+development;Mobile+app+development;Tutoring" alt="Typing SVG" />
+    <a href="https://stackoverflow.com/users/story/21236216">
+      <img src="https://github-readme-stackoverflow.vercel.app/?userID=21236216&theme=dark&layout=compact">
+    </a>
+  </p>
+  <a href="https://www.linkedin.com/in/nio-de-backer/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href=mailto:nio@telenet.be>
+    <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white"/>
+  </a>
+</a>
