@@ -7,7 +7,7 @@ Currently learning: **Dart and Flutter**
 <a align="center">
     <img width="55%" alt="Nio's github stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NioDeBacker">
       <a href="https://stackoverflow.com/users/story/21236216">
-      <img src="https://github-readme-stackoverflow.vercel.app/?userID=21236216&theme=dark">
+      <img align="right" src="https://github-readme-stackoverflow.vercel.app/?userID=21236216&theme=dark">
       </a>
  
  
