@@ -5,7 +5,7 @@ I'm a student *Applied Information Technology* at Ghent University College. Curr
 Currently learning: **Dart and Flutter**
 
 <a align="center">
-    <img width="55%" height="250" align="right" alt="Nio's github stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NioDeBacker">
+    <img width="55%" height="400" align="right" alt="Nio's github stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NioDeBacker">
       <a align="left" href="https://stackoverflow.com/users/story/21236216">
       <img src="https://github-readme-stackoverflow.vercel.app/?userID=21236216&theme=dark">
     </a>
