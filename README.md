@@ -6,9 +6,11 @@ Currently learning: **Dart and Flutter**
 
 <a align="center">
     <img width="55%" height="400" align="right" alt="Nio's github stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NioDeBacker">
-      <a align="left" href="https://stackoverflow.com/users/story/21236216">
+      <a href="https://stackoverflow.com/users/story/21236216">
       <img height="200" src="https://github-readme-stackoverflow.vercel.app/?userID=21236216&theme=dark">
-    </a>
+      </a>
+ 
+ 
   </a>
  
   <p align="center">
@@ -21,3 +23,4 @@ Currently learning: **Dart and Flutter**
   <a href=mailto:nio@telenet.be>
     <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
+ 
