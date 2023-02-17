@@ -3,15 +3,18 @@
 I'm a student *Applied Information Technology* at Ghent University College. Currently I'm finishing my Bachelor's thesis and working an internship at [Picky](https://picky.recipes/).
  
 Currently learning: **Dart and Flutter**
-
-<a align="center">
-    <img width="55%" alt="Nio's github stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NioDeBacker">
-      <a href="https://stackoverflow.com/users/story/21236216">
-      <img align="right" src="https://github-readme-stackoverflow.vercel.app/?userID=21236216&theme=dark">
-      </a>
- 
- 
-  </a>
+<div align="center" >
+    <table style="border-collapse: collapse;" >
+     <tr>
+       <td>
+        <img alt="Nio's github stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NioDeBacker">
+       </td>
+        <td><a href="https://stackoverflow.com/users/story/21236216">
+      <img src="https://github-readme-stackoverflow.vercel.app/?userID=21236216&theme=dark">
+      </a></td>
+     </tr>
+    </table>
+    </div>
  
   <p align="center">
     <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -23,4 +26,4 @@ Currently learning: **Dart and Flutter**
   <a href=mailto:nio@telenet.be>
     <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
- 
+
