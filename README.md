@@ -2,7 +2,7 @@
 
 I'm a student *Applied Information Technology* at Ghent University College. Currently I'm finishing my Bachelor's thesis and working an internship at [Picky](https://picky.recipes/).
  
-Currently learning: **Dart and Flutter**
+Currently learning: **Dart and Flutter, Swift and TypeScript (React.js)**
 <div align="center" >
     <table style="border-collapse: collapse;" >
      <tr>
