@@ -9,8 +9,8 @@ Currently learning: **Dart and Flutter, Swift and TypeScript (React.js)**
        <td>
         <img alt="Nio's github stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NioDeBacker">
        </td>
-        <td><a href="https://stackoverflow.com/users/story/21236216">
-      <img src="https://github-readme-stackoverflow.vercel.app/?userID=21236216&theme=dark">
+        <td><a href="https://stackoverflow.com/users/10669031/melon-the-great">
+      <img src="https://github-readme-stackoverflow.vercel.app/?userID=10669031&theme=dark">
       </a></td>
      </tr>
     </table>
