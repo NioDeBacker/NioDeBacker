@@ -14,7 +14,7 @@
       <a href="https://github.com/NioDeBacker?tab=repositories&language=c%23" target="_blank"><img alt="C#" src="https://img.shields.io/badge/-C%23-375eab?style=flat-square&logo=Csharp&logoColor=white"></a>
       <a href="https://github.com/NioDeBacker?tab=repositories&language=html" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"></a>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=NioDeBacker&show_icons=true&include_all_commits=false&hide_border=true&count_private=true&title_color=5391FE&icon_color=000000&text_color=555"></img><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=NioDeBacker&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&title_color=5391FE&icon_color=000000&text_color=555"></img><br>
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D36736&center=true&vCenter=true&width=435&lines=Full+Stack;Mobile+Apps;Algorithms;Tutoring;" alt="Typing SVG" /><br>
   </samp>
   </p>
